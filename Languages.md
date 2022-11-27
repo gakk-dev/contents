@@ -2,7 +2,7 @@
 title: Languages
 description: 
 published: true
-date: 2022-11-27T09:58:21.964Z
+date: 2022-11-27T09:58:48.952Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T09:57:36.260Z
@@ -12,4 +12,4 @@ dateCreated: 2022-11-27T09:57:36.260Z
 
 Programming languages are provided below.
 
-- [JavaScript](./JavaScript)
+- [JavaScript](./Languages/JavaScript)
