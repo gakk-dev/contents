@@ -2,7 +2,7 @@
 title: Home
 description: Welcome page
 published: true
-date: 2022-11-27T12:42:38.397Z
+date: 2022-11-27T13:13:25.423Z
 tags: general
 editor: markdown
 dateCreated: 2022-11-27T03:23:53.894Z
@@ -29,3 +29,10 @@ You can write and contribute our content for all of the programmers.
 ## Languages
 
 - [JavaScript](./Languages/JavaScript)
+
+## How to contribute with us?
+
+1. [Register](https://gakk.dev/login)
+2. Edit or create new page
+3. Save it!
+
