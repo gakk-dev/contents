@@ -2,7 +2,7 @@
 title: Home
 description: Welcome page
 published: true
-date: 2022-11-27T13:14:02.757Z
+date: 2022-11-27T13:14:31.935Z
 tags: general
 editor: markdown
 dateCreated: 2022-11-27T03:23:53.894Z
@@ -32,7 +32,7 @@ You can write and contribute our content for all of the programmers.
 
 ## How to contribute with us?
 
-1. [Register](/login)
+1. Register
 2. Edit or create new page
 3. Save it!
 
