@@ -2,7 +2,7 @@
 title: Home
 description: Welcome page
 published: true
-date: 2022-11-27T09:54:26.049Z
+date: 2022-11-27T12:42:38.397Z
 tags: general
 editor: markdown
 dateCreated: 2022-11-27T03:23:53.894Z
@@ -10,7 +10,7 @@ dateCreated: 2022-11-27T03:23:53.894Z
 
 # Welcome to Gakk!
 
-Gakk is a free and open content platform for all people who want to learn and study programming!
+Gakk is a free and open content platform for all people who want to learn and study programming! Gakk is Wikipedia for learning programming. We aim to create free programming learning site with everyone.
 
 ## For beginner of programmers
 
