@@ -2,7 +2,7 @@
 title: JavaScript
 description: 
 published: true
-date: 2022-11-30T08:03:53.486Z
+date: 2022-11-30T08:04:24.987Z
 tags: web, server side, iot
 editor: markdown
 dateCreated: 2022-11-30T08:03:53.486Z
@@ -22,7 +22,7 @@ JavaScriptに関する詳細はWikipediaでご覧ください。
 
 ## 目次
 
-1. [JavaScriptについて](Languages/JavaScript/About)
+1. [JavaScriptについて](JavaScript/About)
 1. [実行環境](Languages/JavaScript/ExecutionEnvironment)
 1. [基本構文](Languages/JavaScript/Basic)
 1. [変数について](Languages/JavaScript/Basic)
